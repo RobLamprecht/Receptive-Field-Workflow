@@ -4,4 +4,4 @@ Generates Sparse Noise Stimuli and synchronously records data from the open ephy
 
 This file was created using Bonsai Rx visual coding language. Note this frame work must be installed for the program to work.
 
-Last Updated: February 9th 224
+Last Updated: February 9th 2024
